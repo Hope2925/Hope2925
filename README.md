@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hope2925
-- 👀 I’m interested in synthetic and systems biology 
+- 👀 I’m interested in using and developing computational tools to analyze large-scale biological data.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any work that allows me to grow in 
 - 📫 hopekirby2@gmail.com
