@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hope2925
+- 👋 Hi, I’m Hope Townsend (@Hope2925)
 - 👀 I’m interested in using and developing computational tools to analyze large-scale biological data.
 - 🌱 I’m currently learning machine learning techniques, algorithm development, and high-dimensional data statistics.
 - 💞️ I’m looking to collaborate on any work that allows me to grow in the above. 
